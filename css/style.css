@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+background: #00cccc;
+font-family: 'Roboto', sans-serif;
+color: black
+}
+
+
+h1 { 
+   font-size: 45px;
+} 
+
+
+
+img {
+    display: block;
+}
+
+a {
+  display: block;
+} 
+
+
+#top {background: hotpink}
+      
+
+#title {
+       background: green;
+}
+
+
+#horse { 
+        background: lightblue;
+        width: 900px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        border-radius: 5px;
+}
+
+#main {
+       background: royalblue;
+       width: 800px;
+       padding: 10px;
+       padding-top: 20px;
+       margin-top: 15px;
+       border-radius: 5px;
+}       
+
